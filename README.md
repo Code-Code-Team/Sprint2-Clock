@@ -1,4 +1,6 @@
 ## Sprint 2
+  # Link
+  [My Clock Project](https://code-code-team.github.io/Sprint2-Clock/)
 
   # Assignment Statement
   - Time to put your newly learned skills to work!
@@ -13,5 +15,4 @@
   ![ScreenShot of Clock](./images/Screen%20Shot%202020-10-16%20at%2014.25.47.png)
 
 
-  # Gitub io link
-  [My Clock Project](https://code-code-team.github.io/Sprint2-Clock/)
+  
